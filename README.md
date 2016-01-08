@@ -1,0 +1,2 @@
+# LolCode
+SUCH CODE MUCH WOW
