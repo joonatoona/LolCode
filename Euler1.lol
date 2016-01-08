@@ -1,0 +1,15 @@
+HAI 1.2
+    I HAS A TOTL ITZ 0
+    IM IN YR LOOP UPPIN YR VAR TIL BOTH SAEM VAR AN 1000
+        BOTH SAEM MOD OF VAR AN 5 AN 0, O RLY?
+        YA RLY
+            TOTL R SUM OF TOTL AN VAR
+        NO WAI
+            BOTH SAEM MOD OF VAR AN 3 AN 0, O RLY?
+            YA RLY
+                TOTL R SUM OF TOTL AN VAR
+            OIC
+        OIC
+    IM OUTTA YR LOOP
+    VISIBLE TOTL
+KTHXBYE
